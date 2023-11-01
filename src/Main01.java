@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Metod kotorii
 public class Main01 {
   Scanner scanner = new Scanner(System.in);
 
