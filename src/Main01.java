@@ -19,6 +19,7 @@ public class Main01 {
     int n = readInput();
     System.out.println("vi vveli chislo" + n);
     System.out.println("lalala blala");
+    int[] arr={1,2,5,7};
   }
 }
 
