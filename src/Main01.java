@@ -18,8 +18,14 @@ public class Main01 {
   public static void main(String[] args) {
     int n = readInput();
     System.out.println("vi vveli chislo" + n);
+<<<<<<< HEAD
     System.out.println("lalala blala");
     int[] arr={1,2,5,7};
+=======
+    System.out.println("lalala");
+    int[] arr={1,3,4,6};
+
+>>>>>>> 4e180de1dd77da44fe81e8780497cbe6c770e082
   }
 }
 
